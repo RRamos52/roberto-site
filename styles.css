@@ -1,0 +1,48 @@
+.navbar {
+  font-family: 'Poppins', sans-serif;
+}
+
+.navbar-nav .nav-link {
+  color: #ffffff;
+  transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #dddddd;
+}
+
+.carousel-caption {
+  font-family: 'Poppins', sans-serif;
+}
+.blog-images {
+    border-radius: 6px;
+    margin-bottom: 1rem;
+    width: 100%;
+    object-fit: cover;
+}
+.blog-type {
+font-size: 0.8rem;
+color: #aaa;
+text-transform: uppercase;
+letter-spacing: 1px;
+}
+.blog-title {
+font-size: 1.5rem;
+font-weight: 600;
+}
+.sidecard {
+background-color: #f7f7f7;
+padding: 1.5rem;
+border-radius: 8px;
+}
+.sidecard-img {
+width: 80px;
+height: 80px;
+border-radius: 50%;
+object-fit: cover;
+margin-bottom: 1rem;
+}
+.social-icons a {
+margin: 0 0.5rem;
+color: #333;
+text-decoration: none;
